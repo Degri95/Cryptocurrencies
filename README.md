@@ -1,5 +1,5 @@
 # Cryptocurrencies
-Analyzing cryptocurrencies using Unsupervised machine learning to group data.
+Analyzing cryptocurrencies using unsupervised machine learning to group data.
 
 ## Overview
 
