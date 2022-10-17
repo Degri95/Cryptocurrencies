@@ -11,7 +11,7 @@ After the data was preprocessed and scaled, Principal Component Analysis (PCA) w
 
 ![PCA](/Resources/PCA.PNG)
 
-an elbow curve was created to determine how many clusters would best fit the data.
+An elbow curve was created to determine how many clusters would best fit the data.
 
 ![finding k](/Resources/find_k.PNG)
 ![elbow curve](/Resources/elbow_curve.PNG)
